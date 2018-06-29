@@ -79,7 +79,6 @@ Once the list is reindexed you may submit your changes to this repository and th
 
 # Academic Citation
 
-<<<<<<< HEAD
 This list is the product of extensive work by a number of academic researchers, all of whom benefit from having their work cited.
 
 This list was originally produced and is maintained by Timothy Libert, if you are using it for academic research related to web tracking, please cite the most pertinent publication from his [Google Scholar page](https://scholar.google.com/citations?user=pR9YdCcAAAAJ&hl=en&oi=ao).
@@ -91,6 +90,3 @@ Those making significant contributions may have their papers added here in the f
 # License
 
 The webXray Domain Owner List is FOSS and licensed under GPLv3, see LICENSE.md for details.
-=======
-This list was originally produced by Timothy Libert, if you are using it for academic research, please cite the most pertinent publication from his [Google Scholar page](https://scholar.google.com/citations?user=pR9YdCcAAAAJ&hl=en&oi=ao).
->>>>>>> e1bd381ebbd369e3691adba32a9c4aec3aecc0cb
