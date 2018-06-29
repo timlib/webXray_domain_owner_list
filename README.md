@@ -83,7 +83,7 @@ This list is the product of extensive work by a number of academic researchers, 
 
 This list was originally produced and is maintained by Timothy Libert, if you are using it for academic research related to web tracking, please cite the most pertinent publication from his [Google Scholar page](https://scholar.google.com/citations?user=pR9YdCcAAAAJ&hl=en&oi=ao).
 
-The vast majority of information on mobile domains was produced by Van Kleek, Licardi, Binn, Zhao, Weitzner, and Shadbolt.  Please cite ["Better the Devil You Know: Exposing the Data Sharing Practices of Smartphone Apps"](https://dl.acm.org/citation.cfm?id=3025556) if you are conducting measurement of mobile app data.
+The vast majority of information on mobile domains was produced by Van Kleek, Licardi, Binn, Zhao, Weitzner, and Shadbolt.  Please cite ["Better the Devil You Know: Exposing the Data Sharing Practices of Smartphone Apps"](https://dl.acm.org/citation.cfm?id=3025556) if you are conducting measurement of mobile apps.
 
 Those making significant contributions may have their papers added here in the future.  The goal is for this project to be a community resource as well as a means to share recognition of contributor work.
 
