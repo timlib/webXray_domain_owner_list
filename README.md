@@ -21,7 +21,11 @@ The list is a JSON file.  Each entry in the list has the following fields:
 * __notes__: a string which has pertinent information as to why a domain was assigned to a given owner
 	
 * __country__: the ccTLD for the country in which the service or company is based
-	
+
+* __uses__: what a first-party uses the service for, note that first-party use may be different than the ultimate third-party use.  For example, a site may use audience measurement tools from a third-party to gain insights into traffic, but the third-party may use this data for marketing.
+
+* __platforms__: where the domain has been observed, so far 'web', 'mobile', and 'email'
+
 * __domains__: an array of domian names (strings) which are owned by the given service or company
 
 # Using the List
@@ -44,7 +48,7 @@ Have you found a new domain not in the list?  Is the owner already in the list? 
 
 Have you found a new domain and the owner is not in the list?  If so, you have extra work to do!  
 
-First, make sure you have found all the relevant data for the owner (name, aliases, homepage url, privacy policy url, country, and domains).  Next, paste the following blank entry at the end of the list, but before the closing ']'.
+First, make sure you have found all the relevant data for the owner (name, aliases, homepage url, privacy policy url, country, uses, platforms, and domains).  Next, paste the following blank entry at the end of the list, but before the closing ']'.
 
 	,{
 		"id"				 : MANUALLY_ADD_NEXT_ID_NUMBER,
@@ -55,6 +59,9 @@ First, make sure you have found all the relevant data for the owner (name, alias
 		"privacy_policy_url" : null,
 		"notes"				 : null,
 		"country"			 : null,
+		"uses"				 : [],
+		"platforms"			 : [],
+		"revenue_types"		 : [],
 		"domains"			 : []
 	}
 	
@@ -72,7 +79,13 @@ Once the list is reindexed you may submit your changes to this repository and th
 
 # Academic Citation
 
-This list was originally produced by Timothy Libert, if you are using it for academic research, please cite the most pertinent publication from his [Google Scholar page](https://scholar.google.com/citations?user=pR9YdCcAAAAJ&hl=en&oi=ao).
+This list is the product of extensive work by a number of academic researchers, all of whom benefit from having their work cited.
+
+This list was originally produced and is maintained by Timothy Libert, if you are using it for academic research related to web tracking, please cite the most pertinent publication from his [Google Scholar page](https://scholar.google.com/citations?user=pR9YdCcAAAAJ&hl=en&oi=ao).
+
+The vast majority of information on mobile domains was produced by Van Kleek, Licardi, Binn, Zhao, Weitzner, and Shadbolt.  Please cite ["Better the Devil You Know: Exposing the Data Sharing Practices of Smartphone Apps"](https://dl.acm.org/citation.cfm?id=3025556) if you are conducting measurement of mobile app data.
+
+Those making significant contributions may have their papers added here in the future.  The goal is for this project to be a community resource as well as a means to share recognition of contributor work.
 
 # License
 
