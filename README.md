@@ -1,6 +1,6 @@
 # webXray Domain Owner List
 
-Drawn from the [webXray project](https://github.com/timlib/webXray), this list provides a hierarchical accounting of what entities own commonly found third-party domains on the web.  This list may not be used for commercial purposes.
+Drawn from the [webXray project](https://github.com/timlib/webXray), this list provides a hierarchical accounting of what entities own commonly found third-party domains on the web.  This list may not be used for commercial purposes without explicit permission.
 
 # Structure of the List
 
