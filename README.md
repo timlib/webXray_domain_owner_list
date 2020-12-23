@@ -89,4 +89,4 @@ Those making significant contributions may have their papers added here in the f
 
 # License
 
-The webXray Domain Owner List is FOSS and licensed under GPLv3, see LICENSE.md for details.
+The webXray Domain Owner List is licensed for non-commercial use.
