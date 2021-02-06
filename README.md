@@ -89,4 +89,4 @@ Those making significant contributions may have their papers added here in the f
 
 # License
 
-The webXray Domain Owner List is licensed for non-commercial use.
+This software is *not* open source, it is *source available* and for *non-commercial use* only.  Please contact Timothy Libert for commercial licensing information.
